@@ -1,5 +1,5 @@
 # InstaladorBCUcoti
 Instalador BCUcoti.
-Aplicación para obtener las cotizaciones de las principales monedas internacionales y regionales.
-Cotizaciones interbancarias para el Mercado Local.
-Fuente WS BCU 2021.
+Aplicación para obtener las cotizaciones de las principales monedas internacionales y regionales, U.I. (Unidad Indexada) y U.R. (Unidad Reajustable) de Uruguay.
+Cotizaciones interbancarias para el mercado local uruguayo.
+Fuente WS BCU Uruguay 2021.
